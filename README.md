@@ -1,6 +1,6 @@
 Hosting URL: https://real---estate---project.web.app
 
-# 🏡 Real Estate Project
+# 🏡 Dream House
 
 A modern, responsive real estate web application built with **React**, **Vite**, **TailwindCSS**, and **Firebase**. This project showcases property listings, user authentication, filtering, and booking/contact functionality.
 
