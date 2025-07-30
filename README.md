@@ -41,7 +41,7 @@ A modern, responsive real estate web application built with **React**, **Vite**,
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/real-estate-project.git
+https://github.com/Afrina2004/Real-Estate-Project.git
 cd real-estate-project
 
 # 2. Install dependencies
